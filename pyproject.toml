@@ -1,0 +1,10 @@
+[project]
+name = "railway-test"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "sqlalchemy>=2.0.0",
+    "uvicorn>=0.23.0",
+]
